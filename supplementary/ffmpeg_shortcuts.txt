@@ -1,0 +1,6 @@
+Crop:
+ffmpeg -i seda4.MOV -filter:v "crop=708:708:300:300" seda4_crop.MOV
+Resize:
+ffmpeg -i seda6_crop.MOV -vf scale=256:-2 seda6_resize.MOV
+Picture:
+ffmpeg -i seda6_resize.MOV -vf fps=10 ..\Foto_Seda\6\Seda_%04d.png
