@@ -8,6 +8,6 @@ For this study I developed a Home Security System for Low Power Embedded Devices
 
 Writeup and supplementary files are in this repo.
 
-Trained Model files can be obtained from this Google Drive Link:
+Trained Model files are large than 25MB, they can be obtained from this Google Drive Link:
 [GoogleNet Trained Model](https://1drv.ms/u/s!ApWQq5PX8EXw3hGn1awj7CCQHTKU?e=ZTYIlB)
 
